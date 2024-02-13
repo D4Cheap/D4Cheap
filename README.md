@@ -1,18 +1,12 @@
 
-<p align="center"><img src="https://i.pinimg.com/originals/fe/eb/a3/feeba38228fd114194bbdc1d930aa8d8.gif" alt="Synthwave" height="250" width="700"></p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="matheus pc">
 <h2 align="center">About me</h2>
 
-```golang
+## Connect with me:
 
-export class Bio {
-		"- ⚡ Quick bio:":                    "I'm a computer engeneering student at the Federal University of Ouro Preto(UFOP)",
-		"- 🌱 I’m currently learning":        "i'm always learning react stuffs and recently i'm learning dotnet",
-		"- 👯 I’m looking to collaborate on": "Web projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "PHP and Laravel",
-		"- 📫 How to reach me:":              "you can search me on linkedin linkedin.com/in/matheus-giovanny"
-	}
-```
+<a href="https://www.linkedin.com/in/matheus-giovanny/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<br />
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
