@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="matheus pc">
 <h2 align="center">About me</h2>
 
-## I'm a web developer and AI enthusiast, gamer on my free time.
+I'm a web developer and AI enthusiast, and gamer on my free time.
 
 - 🔭 I’m currently working on my thesis, Machine Learning with PHP!
 - 🌱 I’m a Full Stack Dev, but prefer Back-End
