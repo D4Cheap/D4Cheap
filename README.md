@@ -1,6 +1,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="matheus pc">
 <h2 align="center">About me</h2>
+## I'm a web developer and AI enthusiast, gamer on my free time.
+
+- 🔭 I’m currently working on my thesis, Machine Learning with PHP!
+- 🌱 I’m a Full Stack Dev, but prefer Back-End
+- 👯 Game Modder on my free time
+- 🥅 2024 Goals: Contribute more to modding
 
 ## Connect with me:
 
@@ -17,9 +23,5 @@
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4Cheap&langs_count=10&theme=tokyonight&layout=compact" alt="D4Cheap :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=D4Cheap&show_icons=true&theme=synthwave" alt="D4Cheap :: Profile Stats" /></p>
 
 ---
